@@ -11,7 +11,7 @@ It will always be available for free, with the source code included. All feature
 > If you like our work feel free to send some money our way so we can buy a coffee.
 > We will be thankful! All Donations will be spread evenly among developers.
 > 
-> My Email LeeDeindaddy@gmail.com
+> My Email On PayPal LeeDeindaddy@gmail.com
 >
 
 ## Features:
